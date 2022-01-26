@@ -1,4 +1,4 @@
 # NLP-Project <br>
-Bring your terminal control on App/ directory 
-and run the command
-streamlit run app.py
+Bring your terminal control on App/ directory <br>
+and run the command <br>
+streamlit run app.py <br>
